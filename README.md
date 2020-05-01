@@ -10,7 +10,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 
 **Phase 1 (Basics)**
 
-- Python Basic 1(target >>1 week)
+- [Python Basic 1(target >>1 week)](https://github.com/emetowinner/python-challenges/tree/master/Phase-1/Python%20Basic%201)
 - More Coming
 
 **Phase 2 (Data Structures and Algorithms)**
