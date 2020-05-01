@@ -11,8 +11,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 **Phase 1 (Basics)**
 
 - Python Basic 1(target >>1 week)
-- Python Basic 2(target >>1 week)
-- Python Data Type (String)(target >>3 days)
+- More Coming
 
 **Phase 2 (Data Structures and Algorithms)**
 
