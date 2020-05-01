@@ -72,4 +72,4 @@ $ git fetch upstream
 
 ## Reference:
 
-1. **Code Challeng** [w3resource](https://www.w3resource.com/)
+1. **Code Challenge** [w3resource](https://www.w3resource.com/)
