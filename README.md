@@ -4,7 +4,7 @@
 
 This repository contains python challenges and task from beginner level to advance.
 
-_Welcome, this project aim is to provide you with micro and macro task while you learn new concepts in python. Is one thing to keep learning and is another to practice what you are learning. During my learning process, one of the question I do ask myself is &quot;were and how can I practice this concept I just learnt now&quot;, this question comes always when you&#39;re learn basics in programming, like VARIABLES, LOOPS, CONDITIONS, DATA TYPES etc. these tasks provided here will help you gain more understand of concept you learn, from beginners steps to advance._
+_Welcome, this project aim is to provide you with micro and macro task while you learn new concepts in python. Is one thing to keep learning and is another to practice what you are learning. During my learning process, one of the question I do ask myself is &quot;were and how can I practice this concept I just learnt now&quot;, this question comes always when you're learning basics in programming, like VARIABLES, LOOPS, CONDITIONS, DATA TYPES etc. the tasks provided here will help you gain more understanding of concepts you learn, from beginners steps to advance._
 
 ## Repository Structure
 
