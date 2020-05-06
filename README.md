@@ -59,7 +59,7 @@ $ git checkout master
 
 ## Task Submission
 
-Visit the submission repository
+Visit the submission [repository](https://github.com/CodedLadiesInnovateTech/python-challenge-solutions)
 
 ## Note:
 
