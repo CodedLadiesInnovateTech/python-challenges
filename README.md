@@ -44,7 +44,7 @@ $ git remote add origin https://github.com/{YOUR-GITHUB-USERNAME}/python-challen
 ```
 
 ```sh
-$ git remote add upstream https://github.com/emetowinner/python-challenges.git
+$ git remote add upstream https://github.com/CodedLadiesInnovateTech/python-challenges.git
 ```
 
 Pull the code to your project directory and set it up by running the following command
