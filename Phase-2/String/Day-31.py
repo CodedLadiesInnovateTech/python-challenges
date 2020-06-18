@@ -1,3 +1,4 @@
+"""
 1. Write a Python function to convert a given string to all uppercase if it contains at least 2 uppercase characters in the first 4 characters. 
 
 2.Write a Python program to sort a string lexicographically. 
@@ -20,3 +21,4 @@ Note : In cryptography, a Caesar cipher, also known as Caesar's cipher, the shif
 
 10. Write a Python program to print the following floating numbers upto 2 decimal places. 
 
+"""
