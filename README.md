@@ -17,7 +17,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 **Phase 2 (Data Structures and Algorithms)**
 
 - [Python String](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/String)
-
+- [Python Json](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Json)
 **Phase 3 (Objects)**
 
 - Coming soon
