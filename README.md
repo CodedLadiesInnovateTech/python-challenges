@@ -18,6 +18,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 
 - [Python String](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/String)
 - [Python Json](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Json)
+- [Python List](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/List)
 
 **Phase 3 (Objects)**
 
