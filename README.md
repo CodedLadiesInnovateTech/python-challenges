@@ -22,6 +22,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 - [Python Dictionary](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Dictionary)
 - [Python Tuple](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Tuple)
 - [Python Set](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Set)
+- [Python Data Structure](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Data Structure)
 
 **Phase 3 (Objects)**
 
