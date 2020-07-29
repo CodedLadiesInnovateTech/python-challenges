@@ -1,7 +1,6 @@
 """
 
 Data Structures: [ 30 exercises with solution]
-[An editor is available at the bottom of the page to write and execute the scripts.]
 
 1. Write a Python program to create an Enum object and display a member name and value.
 Sample data :
