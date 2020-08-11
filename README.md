@@ -24,6 +24,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 - [Python Set](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Set)
 - [Python Data Structure](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Data%20Structure)
 - [Python Search and Sorting](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Search%20and%20Sorting)
+- [Python Linked List](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Linked%20List)
 
 **Phase 3 (Objects)**
 
