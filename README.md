@@ -26,6 +26,7 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 - [Python Search and Sorting](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Search%20and%20Sorting)
 - [Python Linked List](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Linked%20List)
 - [Recursion](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Recursion)
+- [File I/O](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/File%20I/O)
 
 **Phase 3 (Objects)**
 
