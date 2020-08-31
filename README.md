@@ -30,7 +30,8 @@ _Welcome, this project aim is to provide you with micro and macro task while you
 
 **Phase 3 (Objects)**
 
-- Coming soon
+- [Python Class](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Python%20Class)
+- [Python Challenge](https://github.com/CodedLadiesInnovateTech/python-challenges/tree/master/Phase-2/Python%20Challenge)
 
 ## Set Up
 
